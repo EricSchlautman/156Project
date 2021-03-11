@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stores>
+  <Store>
+    <storeCode>dhg08x</storeCode>
+    <managerCode>i4bu9f</managerCode>
+    <street>206 Bartelt Court</street>
+    <city>Memphis</city>
+    <state>Tennessee</state>
+    <zipcode>38181</zipcode>
+    <country>United States</country>
+  </Store>
+  <Store>
+    <storeCode>9iagib</storeCode>
+    <managerCode>vqm1te</managerCode>
+    <street>8099 Manley Place</street>
+    <city>Seattle</city>
+    <state>Washington</state>
+    <zipcode>98121</zipcode>
+    <country>United States</country>
+  </Store>
+  <Store>
+    <storeCode>ke4cdz</storeCode>
+    <managerCode>jxgivd</managerCode>
+    <street>890 Parkside Parkway</street>
+    <city>New York City</city>
+    <state>New York</state>
+    <zipcode>10079</zipcode>
+    <country>United States</country>
+  </Store>
+  <Store>
+    <storeCode>tt4umf</storeCode>
+    <managerCode>dtypnk</managerCode>
+    <street>27218 Sugar Terrace</street>
+    <city>Tampa</city>
+    <state>Florida</state>
+    <zipcode>33661</zipcode>
+    <country>United States</country>
+  </Store>
+  <Store>
+    <storeCode>wa9lj2</storeCode>
+    <managerCode>esxsci</managerCode>
+    <street>20 Killdeer Park</street>
+    <city>Seattle</city>
+    <state>Washington</state>
+    <zipcode>98140</zipcode>
+    <country>United States</country>
+  </Store>
+  <Store>
+    <storeCode>5gsl9k</storeCode>
+    <managerCode>n3ep0x</managerCode>
+    <street>8678 Saint Paul Center</street>
+    <city>Charleston</city>
+    <state>West Virginia</state>
+    <zipcode>25331</zipcode>
+    <country>United States</country>
+  </Store>
+  <Store>
+    <storeCode>ccoyzj</storeCode>
+    <managerCode>tuz64t</managerCode>
+    <street>975 Moose Court</street>
+    <city>Little Rock</city>
+    <state>Arkansas</state>
+    <zipcode>72204</zipcode>
+    <country>United States</country>
+  </Store>
+  <Store>
+    <storeCode>djoknf</storeCode> 
+    <managerCode>wz4wxf</managerCode>
+    <street>450 Porter Park</street>
+    <city>Washington</city>
+    <state>District of Columbia</state>
+    <zipcode>20319</zipcode>
+    <country>United States</country>
+  </Store>
+  <Store>
+    <storeCode>040egp</storeCode>
+    <managerCode>q8itus</managerCode>
+    <street>247 Morrow Center</street>
+    <city>Dallas</city>
+    <state>Texas</state>
+    <zipcode>75310</zipcode>
+    <country>United States</country>
+  </Store>
+  <Store>
+    <storeCode>llwy7m</storeCode>
+    <managerCode>22d5an</managerCode>
+    <street>06 Reinke Place</street>
+    <city>Carson City</city>
+    <state>Nevada</state>
+    <zipcode>89706</zipcode>
+    <country>United States</country>
+  </Store>
+</stores>

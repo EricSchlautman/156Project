@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<items>
+<service>
+  <code>romdia</code>
+  <name>Console Repair</name>
+  <price>$18.11 </price>
+</service>
+<service>
+  <code>loqir1</code>
+  <name>Video Rental</name>
+  <price>$5.84 </price>
+</service>
+<giftcard>
+  <code>1wb5rf</code>
+  <name>Steam</name>
+  <price>$90.30 </price>
+</giftcard>
+<new>
+  <code>ly5z6p</code>
+  <name>Bayonetta 2</name>
+  <price>$98.36 </price>
+</new>
+<giftcard>
+  <code>9dwtvf</code>
+  <name>Xbox Live</name>
+  <price>$17.57 </price>
+</giftcard>
+<new>
+  <code>7aqno9</code>
+  <name>Wii Sports</name>
+  <price>$2.28 </price>
+</new>
+<subscription>
+  <code>w139oc</code>
+  <name>Nintendo Switch Online</name>
+  <price>$41.97 </price>
+</subscription>
+<new>
+  <code>8l2xfo</code>
+  <name>Super Smash Bros. Ultimate</name>
+  <price>$68.25 </price>
+</new>
+<subscription>
+  <code>ankdua</code>
+  <name>Playstation Plus</name>
+  <price>$81.48 </price>
+</subscription>
+<new>
+  <code>5m2813</code>
+  <name>Metroid Prime Trilogy</name>
+  <price>$59.34 </price>
+</new>
+</items>

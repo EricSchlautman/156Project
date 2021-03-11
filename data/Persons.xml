@@ -1,0 +1,180 @@
+<Persons>
+<Person>
+  <code>5b9aby</code>
+  <type>E</type>
+  <lastName>Warrior</lastName>
+  <firstName>Maryjo</firstName>
+  <address>
+    <street>8 Park Meadow Drive</street>
+    <city>Gilbert</city>
+    <state>Arizona</state>
+    <zipcode>85297</zipcode>
+    <country>United States</country>
+  </address>
+  <emailAddresses>
+    <string>mwarrior0@dmoz.org</string>
+    <string>mwarrior0@bigcartel.com</string>
+    <string>mwarrior0@cloudflare.com</string>
+  </emailAddresses>
+</Person>
+<Person>
+  <code>lexjn6</code>
+  <type>P</type>
+  <lastName>Di Lucia</lastName>
+  <firstName>Roosevelt</firstName>
+  <address>
+    <street>736 Grasskamp Plaza</street>
+    <city>Tulsa</city>
+    <state>Oklahoma</state>
+    <zipcode>74156</zipcode>
+    <country>United States</country>
+  </address>
+  <emailAddresses>
+    <string>rdilucia1@indiegogo.com</string>
+    <string>rdilucia1@last.fm</string>
+    <string>rdilucia1@posterous.com</string>
+    <string>rdilucia1@amazon.co.jp</string>
+  </emailAddresses>
+</Person>
+<Person>
+  <code>7urcwk</code>
+  <type>P</type>
+  <lastName>Bonhan</lastName>
+  <firstName>Dougy</firstName>
+  <address>
+    <street>8 Stuart Hill</street>
+    <city>Tampa</city>
+    <state>Florida</state>
+    <zipcode>33647</zipcode>
+    <country>United States</country>
+  </address>
+  <emailAddresses/>
+</Person>
+<Person>
+  <code>zzq6uw</code>
+  <type>P</type>
+  <lastName>Kurten</lastName>
+  <firstName>Kincaid</firstName>
+  <address>
+    <street>5779 Marquette Pass</street>
+    <city>Brooklyn</city>
+    <state>New York</state>
+    <zipcode>11205</zipcode>
+    <country>United States</country>
+  </address>
+  <emailAddresses>
+    <string>kkurten3@toplist.cz</string>
+    <string>kkurten3@ebay.com</string>
+    <string>kkurten3@google.it</string>
+    <string>kkurten3@aol.com</string>
+  </emailAddresses>
+</Person>
+<Person>
+  <code>hdygpu</code>
+  <type>G</type>
+  <lastName>Terris</lastName>
+  <firstName>Shurlocke</firstName>
+  <address>
+    <street>0766 Daystar Circle</street>
+    <city>Houston</city>
+    <state>Texas</state>
+    <zipcode>77035</zipcode>
+    <country>United States</country>
+  </address>
+  <emailAddresses>
+    <string>sterris4@seesaa.net</string>
+    <string>sterris4@elpais.com</string>
+    <string>sterris4@biglobe.ne.jp</string>
+  </emailAddresses>
+</Person>
+<Person>
+  <code>dtxhub</code>
+  <type>E</type>
+  <lastName>Pudding</lastName>
+  <firstName>Suzann</firstName>
+  <address>
+    <street>090 Miller Trail</street>
+    <city>Spring</city>
+    <state>Texas</state>
+    <zipcode>77388</zipcode>
+    <country>United States</country>
+  </address>
+  <emailAddresses>
+    <string>spudding5@booking.com</string>
+    <string>spudding5@constantcontact.com</string>
+    <string>spudding5@businesswire.com</string>
+    <string>spudding5@chicagotribune.com</string>
+  </emailAddresses>
+</Person>
+<Person>
+  <code>45ncor</code>
+  <type>E</type>
+  <lastName>Lifton</lastName>
+  <firstName>Luise</firstName>
+  <address>
+    <street>757 Maywood Road</street>
+    <city>Apache Junction</city>
+    <state>Arizona</state>
+    <zipcode>85219</zipcode>
+    <country>United States</country>
+  </address>
+  <emailAddresses>
+    <string>llifton6@uiuc.edu</string>
+    <string>llifton6@ca.gov</string>
+  </emailAddresses>
+</Person>
+<Person>
+  <code>peaxfi</code>
+  <type>G</type>
+  <lastName>Janikowski</lastName>
+  <firstName>Gordie</firstName>
+  <address>
+    <street>11 Badeau Alley</street>
+    <city>Alexandria</city>
+    <state>Virginia</state>
+    <zipcode>22309</zipcode>
+    <country>United States</country>
+  </address>
+  <emailAddresses>
+    <string>gjanikowski7@github.io</string>
+    <string>gjanikowski7@posterous.com</string>
+    <string>gjanikowski7@tumblr.com</string>
+  </emailAddresses>
+</Person>
+<Person>
+  <code>6e431n</code>
+  <type>C</type>
+  <lastName>Bollam</lastName>
+  <firstName>Abran</firstName>
+  <address>
+    <street>58 Sutherland Junction</street>
+    <city>New Haven</city>
+    <state>Connecticut</state>
+    <zipcode>6505</zipcode>
+    <country>United States</country>
+  </address>
+  <emailAddresses>
+    <string>abollam8@craigslist.org</string>
+    <string>abollam8@dmoz.org</string>
+    <string>abollam8@spotify.com</string>
+    <string>abollam8@un.org</string>
+  </emailAddresses>
+</Person>
+<Person>
+  <code>xv2psf</code>
+  <type>G</type>
+  <lastName>Stonhard</lastName>
+  <firstName>Booth</firstName>
+  <address>
+    <street>560 Mariners Cove Trail</street>
+    <city>Tampa</city>
+    <state>Florida</state>
+    <zipcode>33605</zipcode>
+    <country>United States</country>
+  </address>
+  <emailAddresses>
+    <string>bstonhard9@unblog.fr</string>
+    <string>bstonhard9@prweb.com</string>
+  </emailAddresses>
+</Person>
+</Persons>

@@ -1,0 +1,94 @@
+{
+"stores": [
+ {
+   "storeCode": "dhg08x",
+   "managerCode": "i4bu9f",
+   "street": "206 Bartelt Court",
+   "city": "Memphis",
+   "state": "Tennessee",
+   "zipcode": 38181,
+   "country": "United States"
+ },
+ {
+   "storeCode": "9iagib",
+   "managerCode": "vqm1te",
+   "street": "8099 Manley Place",
+   "city": "Seattle",
+   "state": "Washington",
+   "zipcode": 98121,
+   "country": "United States"
+ },
+ {
+   "storeCode": "ke4cdz",
+   "managerCode": "jxgivd",
+   "street": "890 Parkside Parkway",
+   "city": "New York City",
+   "state": "New York",
+   "zipcode": 10079,
+   "country": "United States"
+ },
+ {
+   "storeCode": "tt4umf",
+   "managerCode": "dtypnk",
+   "street": "27218 Sugar Terrace",
+   "city": "Tampa",
+   "state": "Florida",
+   "zipcode": 33661,
+   "country": "United States"
+ },
+ {
+   "storeCode": "wa9lj2",
+   "managerCode": "esxsci",
+   "street": "20 Killdeer Park",
+   "city": "Seattle",
+   "state": "Washington",
+   "zipcode": 98140,
+   "country": "United States"
+ },
+ {
+   "storeCode": "5gsl9k",
+   "managerCode": "n3ep0x",
+   "street": "8678 Saint Paul Center",
+   "city": "Charleston",
+   "state": "West Virginia",
+   "zipcode": 25331,
+   "country": "United States"
+ },
+ {
+   "storeCode": "ccoyzj",
+   "managerCode": "tuz64t",
+   "street": "975 Moose Court",
+   "city": "Little Rock",
+   "state": "Arkansas",
+   "zipcode": 72204,
+   "country": "United States"
+ },
+ {
+   "storeCode": "djoknf",
+   "managerCode": "wz4wxf",
+   "street": "450 Porter Park",
+   "city": "Washington",
+   "state": "District of Columbia",
+   "zipcode": 20319,
+   "country": "United States"
+ },
+ {
+   "storeCode": "040egp",
+   "managerCode": "q8itus",
+   "street": "247 Morrow Center",
+   "city": "Dallas",
+   "state": "Texas",
+   "zipcode": 75310,
+   "country": "United States"
+ },
+ {
+   "storeCode": "llwy7m",
+   "managerCode": "22d5an",
+   "street": "06 Reinke Place",
+   "city": "Carson City",
+   "state": "Nevada",
+   "zipcode": 89706,
+   "country": "United States"
+ }
+]
+}

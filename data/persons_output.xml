@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<persons>
+<employee>
+  <code>5b9aby</code>
+  <lastName>Warrior</lastName>
+  <firstName>Maryjo</firstName>
+  <street>8 Park Meadow Drive</street>
+  <city>Gilbert</city>
+  <state>Arizona</state>
+  <zipcode>85297</zipcode>
+  <country>United States</country>
+  <email>mwarrior0@dmoz.org</email>
+  <email2>mwarrior0@bigcartel.com</email2>
+  <email3>mwarrior0@cloudflare.com</email3>
+  <email4></email4>
+</employee>
+<platinumCustomer>
+  <code>lexjn6</code>
+  <lastName>Di Lucia</lastName>
+  <firstName>Roosevelt</firstName>
+  <street>736 Grasskamp Plaza</street>
+  <city>Tulsa</city>
+  <state>Oklahoma</state>
+  <zipcode>74156</zipcode>
+  <country>United States</country>
+  <email>rdilucia1@indiegogo.com</email>
+  <email2>rdilucia1@last.fm</email2>
+  <email3>rdilucia1@posterous.com</email3>
+  <email4>rdilucia1@amazon.co.jp</email4>
+</platinumCustomer>
+<platinumCustomer>
+  <code>7urcwk</code>
+  <lastName>Bonhan</lastName>
+  <firstName>Dougy</firstName>
+  <street>8 Stuart Hill</street>
+  <city>Tampa</city>
+  <state>Florida</state>
+  <zipcode>33647</zipcode>
+  <country>United States</country>
+  <email></email>
+  <email2></email2>
+  <email3></email3>
+  <email4></email4>
+</platinumCustomer>
+<platinumCustomer>
+  <code>zzq6uw</code>
+  <lastName>Kurten</lastName>
+  <firstName>Kincaid</firstName>
+  <street>5779 Marquette Pass</street>
+  <city>Brooklyn</city>
+  <state>New York</state>
+  <zipcode>11205</zipcode>
+  <country>United States</country>
+  <email>kkurten3@toplist.cz</email>
+  <email2>kkurten3@ebay.com</email2>
+  <email3>kkurten3@google.it</email3>
+  <email4>kkurten3@aol.com</email4>
+</platinumCustomer>
+<goldCustomer>
+  <code>hdygpu</code>
+  <lastName>Terris</lastName>
+  <firstName>Shurlocke</firstName>
+  <street>0766 Daystar Circle</street>
+  <city>Houston</city>
+  <state>Texas</state>
+  <zipcode>77035</zipcode>
+  <country>United States</country>
+  <email>sterris4@seesaa.net</email>
+  <email2></email2>
+  <email3>sterris4@elpais.com</email3>
+  <email4>sterris4@biglobe.ne.jp</email4>
+</goldCustomer>
+<employee>
+  <code>dtxhub</code>
+  <lastName>Pudding</lastName>
+  <firstName>Suzann</firstName>
+  <street>090 Miller Trail</street>
+  <city>Spring</city>
+  <state>Texas</state>
+  <zipcode>77388</zipcode>
+  <country>United States</country>
+  <email>spudding5@booking.com</email>
+  <email2>spudding5@constantcontact.com</email2>
+  <email3>spudding5@businesswire.com</email3>
+  <email4>spudding5@chicagotribune.com</email4>
+</employee>
+<employee>
+  <code>45ncor</code>
+  <lastName>Lifton</lastName>
+  <firstName>Luise</firstName>
+  <street>757 Maywood Road</street>
+  <city>Apache Junction</city>
+  <state>Arizona</state>
+  <zipcode>85219</zipcode>
+  <country>United States</country>
+  <email></email>
+  <email2>llifton6@uiuc.edu</email2>
+  <email3></email3>
+  <email4>llifton6@ca.gov</email4>
+</employee>
+<goldCustomer>
+  <code>peaxfi</code>
+  <lastName>Janikowski</lastName>
+  <firstName>Gordie</firstName>
+  <street>11 Badeau Alley</street>
+  <city>Alexandria</city>
+  <state>Virginia</state>
+  <zipcode>22309</zipcode>
+  <country>United States</country>
+  <email>gjanikowski7@github.io</email>
+  <email2>gjanikowski7@posterous.com</email2>
+  <email3></email3>
+  <email4>gjanikowski7@tumblr.com</email4>
+</goldCustomer>
+<customer>
+  <code>6e431n</code>
+  <lastName>Bollam</lastName>
+  <firstName>Abran</firstName>
+  <street>58 Sutherland Junction</street>
+  <city>New Haven</city>
+  <state>Connecticut</state>
+  <zipcode>6505</zipcode>
+  <country>United States</country>
+  <email>abollam8@craigslist.org</email>
+  <email2>abollam8@dmoz.org</email2>
+  <email3>abollam8@spotify.com</email3>
+  <email4>abollam8@un.org</email4>
+</customer>
+<goldCustomer>
+  <code>xv2psf</code>
+  <lastName>Stonhard</lastName>
+  <firstName>Booth</firstName>
+  <street>560 Mariners Cove Trail</street>
+  <city>Tampa</city>
+  <state>Florida</state>
+  <zipcode>33605</zipcode>
+  <country>United States</country>
+  <email></email>
+  <email2>bstonhard9@unblog.fr</email2>
+  <email3></email3>
+  <email4>bstonhard9@prweb.com</email4>
+</goldCustomer>
+</persons>
