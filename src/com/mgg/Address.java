@@ -27,17 +27,24 @@ public class Address {
 	public String getCountry() {
 		return this.country;
 	}
-	public Address(String street, String city, String state, String zipcode, String country) {
+	public Address(String street, String city, String state, 
+				   String zipcode, String country) {
 		this.street = street;
 		this.city = city;
 		this.state = state;
 		this.zipcode = zipcode;
 		this.country = country;
 	}
-	
-	public void addressToString() {
-		System.out.printf("%s \n%s, %s %s\n%s",street, city, state, zipcode, country);
+	@Override
+	public String toString() {
+		return "\n     " + street + "\n     " + city + " " + state + " " + 
+	           zipcode + " " + country;
 	}
+	
+	
+//	public void addressToString() {
+//		System.out.printf("%s \n%s, %s %s\n%s",street, city, state, zipcode, country);
+//	}
 	
 	
 }

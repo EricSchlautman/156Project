@@ -9,6 +9,7 @@ import java.util.List;
  *
  */
 public class Person {
+	
 	String code;
 	String type;
 	String lastName;
@@ -33,6 +34,10 @@ public class Person {
 	}
 	public List<String> getEmailAddresses() {
 		return this.emailAddresses;
+	}
+	@Override
+	public String toString() {
+		return lastName + ", " + firstName + " (" + emailAddresses + ")" + address;
 	}
 	public Person(String code, String type, String lastName, String firstName, Address address,
 			       List<String> emailAddresses) {
