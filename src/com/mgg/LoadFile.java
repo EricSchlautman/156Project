@@ -115,5 +115,76 @@ public class LoadFile {
 		}
 		return persons;
 	}
+	
+	public static List<Sale> loadFileSales(List<Item> listItems, List<Person> persons) {
+		Scanner s = null;
+		List<Sale> sales = new ArrayList<>();
+
+		try {
+			s = new Scanner(new File("data/Sales.csv"));
+			//read in first line for number of lines
+			int numLines = Integer.parseInt(s.nextLine());
+			for (int i = 0; i < numLines; ++i) {
+				List<Item> items = new ArrayList<>();
+				String line = s.nextLine();
+
+				String[] tokens = line.split(",|;", -1);
+
+				String codeSales = tokens[0];
+				String codeStore = tokens[1];
+				String codeCustomer = tokens[2];
+				String codeSalesperson = tokens[3];
+
+				Person customer = null;
+				Person salesperson = null;
+				for(Person p : persons) {
+					if(codeCustomer.equalsIgnoreCase(p.getCode()) ) {
+						customer = new Person(p.getCode(), p.getType(), p.getLastName(), 
+											  p.getFirstName(), p.getAddress(), p.getEmailAddresses());
+					} else if (codeSalesperson.equalsIgnoreCase(p.getCode()) ) {
+						salesperson = new Person(p.getCode(), p.getType(), p.getLastName(), 
+											     p.getFirstName(), p.getAddress(), p.getEmailAddresses());
+					}
+						
+				}
+				
+				
+				for (int size = 4; size < tokens.length; size++) {
+				
+					for(Item m : listItems) {
+						if (tokens[size].equalsIgnoreCase(m.getCode()) && m.getType().equalsIgnoreCase("SV")) {
+							
+							Service b = new Service(m.getCode(), m.getType(), m.getName(), m.getPrice());
+							items.add(b);
+							size = size + 2;
+						} else if (tokens[size].equalsIgnoreCase(m.getCode()) && m.getType().equalsIgnoreCase("SB")) {
+							Subscription b = new Subscription(m.getCode(), m.getType(), m.getName(), m.getPrice(), tokens[size + 1], tokens[size + 2]);
+							items.add(b);
+							size = size + 2;
+						} else if (tokens[size].equalsIgnoreCase(m.getCode()) && m.getType().equalsIgnoreCase("PG")) {
+							Item b = new Item(m.getCode(), m.getType(), m.getName());
+							items.add(b);
+							size++;
+						} else if (tokens[size].equalsIgnoreCase(m.getCode()) && 
+								  ( m.getType().equalsIgnoreCase("PN") || m.getType().equalsIgnoreCase("PU") ) ){
+							Item b = new Item(m.getCode(), m.getType(), m.getName(), m.getPrice());
+							items.add(b);
+							size++;
+						}
+					}
+					
+					
+				}
+
+				Sale b = new Sale(codeSales, codeStore, customer, salesperson, items);
+
+				sales.add(b);
+			}
+		} catch (FileNotFoundException e) {
+			throw new RuntimeException(e);
+		}
+		
+		return sales;
+	}
 
 }
